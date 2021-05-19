@@ -1,19 +1,14 @@
-//import { useState, useEffect } from 'react';
 import './App.css';
-//import Pagination from './paging/page';
+import Header from './header/header';
 import PostAPI from './services/blog';
-//import { getpost} from '../src/services/blog'
 
 function App() {
 
 
   return (
-    <div className="Wrapper">
-      <h1>Blogs</h1>
-      <ul>
-        <PostAPI />
-        
-      </ul>
+    <div className="Container-fluid">
+      <Header />
+      <PostAPI />
       
     </div>
   );
