@@ -3,10 +3,10 @@ Single Page Site in ReactJS. Fetch data from [API](https://jsonplaceholder.typic
 use Hooks to make updated.
 
 ## Upload Full Picture to review Looks
-![Full View](C:/Users/HP/Downloads/ReactApp2.png/GIF)
+![Full View]()
 
 ## Upload Vedio to review Hovering.
-![Video](C:/Users/HP/Downloads/React-App1.webm)
+![Video]()
 
 # Getting Started with Create React App
 
