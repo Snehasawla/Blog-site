@@ -2,10 +2,12 @@
 Single Page Site in ReactJS. Fetch data from [API](https://jsonplaceholder.typicode.com/posts).
 use Hooks to make updated.
 
+##### Addiing Paging to show only 10 post at a time.
+
 ## Upload Full Picture to review Looks
 ![View](https://raw.githubusercontent.com/Snehasawla/Blog-site/master/public/pics/ReactApp2.png)
 
-## Upload Vedio to review Hovering.
+## Upload Video to review Hovering.
 
 
 # Getting Started with Create React App
