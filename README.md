@@ -1,3 +1,13 @@
+# Simple Blog-Site 
+Single Page Site in ReactJS. Fetch data from [API](https://jsonplaceholder.typicode.com/posts).
+use Hooks to make updated.
+
+## Upload Full Picture to review Looks
+
+
+## Upload Vedio to review Hovering.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
